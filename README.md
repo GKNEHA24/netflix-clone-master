@@ -26,7 +26,7 @@ This project is a Netflix clone application built with a React frontend and a Sp
 1. Clone the repository to your local machine:
 
     ```sh
-    git clone https://github.com/OshithRoshantha/netflix-clone.git
+    git clone https://github.com/GKNEHA24/netflix-clone-master.git
     cd netflix-clone/backend
     ```
 
